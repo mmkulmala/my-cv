@@ -1,2 +1,4 @@
 # my-cv
-My resume json cv
+My resume as jsonresume format
+
+[jsonresume](https://jsonresume.org)
