@@ -1,0 +1,457 @@
+{
+  "basics": {
+    "name": "Marno Kulmala",
+    "label": "Senior Professional Engineer",
+    "image": "https://avatars.githubusercontent.com/u/651031?v=4",
+    "email": "thejavasaurus@gmail.com",
+    "phone": "(+358) 50 592 8794",
+    "url": "",
+    "summary": "I'm an expert in Java based technologies (but I'm also fluent with many other programming languages) and in information technology overall: SW architectures, databases, DevOps + SysOps and testing. \nAgile methods have been in my toolbox for years now and I'm trying out new technologies by developing all sorts of apps in my free time. At the moment I'm using my own time to  learn AI, more about python and trying out zig. \nAfter years developing with Java I moved to C++ to see new horizons. My most recent experience is from maritime industry.\nMy long term goal is to be one of the creators of future: AI, robotics and maritime development are close to my heart.\n\nSpecialties: Systems development, backend technologies (C/C++, Java world, python), DevOps, Cloud platforms and SW architectures",
+    "location": {
+      "countryCode": "FI",
+      "address": "Heinävesi"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marnokulmala",
+        "url": "https://www.linkedin.com/in/marnokulmala/"
+      },
+      {
+        "network": "Github",
+        "username": "mmkulmala",
+        "url": "https://github.com/mmkulmala"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Arado",
+      "position": "Senior Consultant",
+      "startDate": "2023-09-30",
+      "endDate": "",
+      "highlights": ["gRPC", "C++", "JS/TS", "Testing"],
+      "summary": "Worked as a Senior Consultant in project related to Maritime industry",
+      "url": "https://www.linkedin.com/company/arado-oy/",
+      "location": "Turku, Finland"
+    },
+    {
+      "name": "Eva International Art Gallery",
+      "position": "Curator and PRO",
+      "startDate": "2021-09-30",
+      "endDate": "",
+      "highlights": [
+        "Curating",
+        "Building exhibitions",
+        "international contacts"
+      ],
+      "summary": "Helping out in Art Gallery",
+      "url": "http://evainternationalartgallery.com",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Mavericks Software Oy",
+      "position": "Software Consultant",
+      "startDate": "2019-02-28",
+      "endDate": "2023-09-30",
+      "highlights": [],
+      "summary": "Worked as consultant in Senior/Lead Java developer roles in different industries: Public Sector, fintech, telecom, OEM. Also involved doing technical interviews for possible candidates for joining Mavericks.\nTech stack used:\n- Java (JVM8-17, Eclipse Leshan and LwM2M protocol, device control, Kubernetes + prometheus, Spring, Spring Boot, Wicket, JavaFX, troubleshooting in all forms, flyway, lombok, hibernate, ehcache, java profiling and optimizing with JProfiler and JMC/JCMD), jdeps for module hunting\n- Integrations (REST, SOAP, main frames)\n- Containers (Docker, Kubernetes)\n- Cloud (openstack, AWS)\n- Databases (DB2, Postgres, triggers, procedures etc)\n- Devops (shell scripting, automation, CI, ansible, yaml, Jenkins, artifactory)\n- Embedded (Hardware debugging, basics of yocto distros)\n- System testing with robot framework\n- Prototyping and learning: Quarkus, MongoDB, Kotlin, nodejs and react\n- requirements engineering\nIndustry level skills related to these:\n- Educational services\n- fintech (PSD2, monetising, PCI)\n- authentication\n- Embedded devices (weather stations), IoT",
+      "url": "https://www.linkedin.com/company/mavericks-software/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Huawei Technologies",
+      "position": "Principal Big-data Architect",
+      "startDate": "2018-11-30",
+      "endDate": "2019-02-28",
+      "highlights": [],
+      "summary": "Devops for big-data platform",
+      "url": "https://www.linkedin.com/company/huawei/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "PHZ Full Stack",
+      "position": "Senior Consultant",
+      "startDate": "2017-04-30",
+      "endDate": "2018-11-30",
+      "highlights": [],
+      "summary": "Worked as a senior consultant in Java and DevOps problems in many industries (fintech, idm, telecom).\n\nJava consultation problems related to: Java, Graphql, flyway, RxJava, Spring, microservices, Groovy + Grails, xml technologies\nDevops consultation involved: Jenkins, ansible, terraform, flocker, openstack, aws, docker, artifactory, *nix, scripting (bash, python), marathon, mesos, developing and maintaining Platform as a Service",
+      "url": "https://www.linkedin.com/company/phz/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "NSD",
+      "position": "Software Engineer",
+      "startDate": "2016-11-30",
+      "endDate": "2017-04-30",
+      "highlights": [],
+      "summary": "Worked as a consultant in Healtcare technology product development.\n\nTechnologies used:\n- Java (EE7, wildfly, wildfly swarm, java microservices)\n- Postman for REST backend testing\n- Docker",
+      "url": "https://www.linkedin.com/company/nsd/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Unikie",
+      "position": "Consultant",
+      "startDate": "2016-02-28",
+      "endDate": "2016-11-30",
+      "highlights": [],
+      "summary": "Worked as a consultant in management system development with Java.\n\nTechnologies used:\n- Java microservices\n- HA solutions (pcs, rabbitmq)\n- Docker\n- integrations",
+      "url": "https://www.linkedin.com/company/unikie/",
+      "location": "Tampere, Finland"
+    },
+    {
+      "name": "Multiple Companies",
+      "position": "Software Architect",
+      "startDate": "2013-07-31",
+      "endDate": "2016-02-28",
+      "highlights": [],
+      "summary": "Worked as software architect for couple of companies.\n\nFirst my tasks included asset management related development and software design tasks. Mostly Maximo cases, but others as well.\nOther tasks include architectural decisions, helping other team members in development issues, refining software engineering processes used on daily work and designing better ways to implement things. Here I used these technologies: JEE, Web Services (REST, SOAP), Spring, jython, virtualization, windows, linux, db2, WebSphere, redmine, integrations, Talend Open Studio.\n\nNext I moved to electronic case management on Java tech stack.\nWhere I used following technologies: JEE, Apache ServiceMix, MySql, IntelliJ, Liferay, xml-technologies, python, tesseract\n\nAfter that I was doing customs applications with following tech stack: Spring, Oracle DB, Oracle SOA, Weblogic, htlm5, responsive.css\n\nI was also involved in project that was creating new emergency system for Finland. Techstack was: javafx and knockdown.js.",
+      "location": "Tampere, Finland"
+    },
+    {
+      "name": "Protacon Group",
+      "position": "Senior Software Developer",
+      "startDate": "2012-02-28",
+      "endDate": "2013-07-31",
+      "highlights": [],
+      "summary": "Worked as a consultant in Business development as well as R&D tasks related to software engineering and planning software architectures. Acted as lead developer and Scrum mastering. I was also involved in mentoring: teaching other developers about new tech.\n\nMethodologies used: scrum, tdd\n\nTechnologies used: Javascript frameworks (mainly node.js but also jquery), Java (version 6 and 7: rest, resteasy, ejb3.X), Servers (Managing and installing: Win 2008 server, ubuntu), tech demos(nacl, kotlin, .net, drupal), orm (jpa2, mybatis), Stripes framework, jms, IBM MQ, Spring, Spring Integration",
+      "url": "",
+      "location": "Oulu/Tampere, Finland"
+    },
+    {
+      "name": "Houston Inc.",
+      "position": "Senior Consultant",
+      "startDate": "2010-05-31",
+      "endDate": "2012-01-31",
+      "highlights": [],
+      "summary": "Worked as a senior consultant in TeleOperator/TeleCom sector R&D and banking.\n\nTechnologies used: Antlr, Wicket, GearMan, Guice, Mockito, JDave, Jetty, Resin, Web Services (SOAP), IDM, J2EE, Spring, maven, Struts, ibatis, Weblogic, xml, EJB, jsp, HTML + CSS + jQuery, php, XAMPP, postgres\n\nMethodologies used: Scrum, kanban",
+      "url": "https://www.linkedin.com/company/houston-inc./",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Kodem",
+      "position": "Enterpreneur",
+      "startDate": "2008-05-31",
+      "endDate": "2010-03-31",
+      "highlights": [],
+      "summary": "I was self-employed in software development subcontrating. Mainly Java based Systems.\n\nTechnologies used: Apache Beehive, EJB, Web Services, BEA WLS (8.1 and 10), Java 1.4.2 and 1.5, MySQL, datacommunications, Akamai",
+      "url": "",
+      "location": "Turku, Finland"
+    },
+    {
+      "name": "GTECH Finland",
+      "position": "Software Engineer",
+      "startDate": "2007-08-31",
+      "endDate": "2008-04-30",
+      "highlights": [],
+      "summary": "Web development (CSS, XHTML and Velocity) and Java programming (Spring, Maven, J2EE, XML etc) for online lottery games",
+      "url": "",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "NSD",
+      "position": "SW Developer",
+      "startDate": "2006-11-30",
+      "endDate": "2007-08-31",
+      "highlights": [],
+      "summary": "worked as a consultant in Java GUI programming and graphics programming (geom, java2D) for developing telecom device (microwaveradio) management software",
+      "url": "https://www.linkedin.com/company/nsd/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Tietoenator",
+      "position": "Consultant",
+      "startDate": "2004-04-30",
+      "endDate": "2006-11-30",
+      "highlights": [],
+      "summary": "Worked as a document management consultant: implementing and supporting client specific solutions.\n\nTechnologies used: document management tools, Java, SQL, scripting, unix, admin tools (consoles, network statistics etc), tech support",
+      "url": "https://www.linkedin.com/company/tieto/",
+      "location": "Helsinki, Finland"
+    },
+    {
+      "name": "Multiple Companies",
+      "position": "Freelancer",
+      "startDate": "1999-12-31",
+      "endDate": "2003-09-30",
+      "highlights": [],
+      "summary": "I worked more than three years as freelancer for couple of companies in Turku and in Pori.\nFirst I worked as MS Office trainer for Metso (part time job won from schools competition).\n\nThen I worked for Sysforte (nowadays belongs to SysOpen Digia) half an year or so. In Sysforte I worked as Visual Basic programmer for different projects. Mainly on applications that were used in industrial PC's: one of them was a in house ERP for customer.\n\nLast one was Affecto where I worked most of my time as freelancer. My job description was ICT designer which basically meant Document management solutions developer. In technical point of view this meant mainly ASP2+ (vbscript and JavaScript) webapplications and Visual Basic components. I also developed many integrations to other systems related to document management, example of these are autocad integration component and wintime integration component.\n\nTech used: Windows, desktop development, JS, VB, VBA, ASP, T-SQL, PL/SQL, MS SQL Server, Oracle, Document management, Barcode scanning, Sticker printers, Document scanning (Kofax, OCR etc)",
+      "location": "Turku, Finland"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "LUT University",
+      "area": "Software Product Management and Business",
+      "studyType": "Master of Science in Technology",
+      "startDate": "2020-12-31",
+      "endDate": "2025-07-31",
+      "score": "",
+      "courses": [
+        "System programming",
+        "Software Economics",
+        "Software Maintenance",
+        "Datawarehouses",
+        "AI ethics, development"
+      ]
+    },
+    {
+      "institution": "Oulu University of Applied Sciences",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Engineering (BEng)",
+      "startDate": "2013-08-31",
+      "endDate": "2019-07-31",
+      "score": "",
+      "courses": ["Mobile Computing", "Sensor networks", "natural sciences"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "IBM Tivoli Enterprise Asset Management Sales Professional v3",
+      "issuer": "IBM",
+      "startDate": "2014-01-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "level": "Novice",
+      "keywords": ["Jest", "Web"]
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "Expert",
+      "keywords": ["Modelling", "Implementation", "Java, C++, PHP"]
+    },
+    {
+      "name": "Java",
+      "level": "Expert",
+      "keywords": [
+        "OOP",
+        "Hibernate",
+        "Multithreading",
+        "Distributed",
+        "OOP",
+        "TTD",
+        "Monitoring application behaviour",
+        "Maintenance",
+        "RxJava",
+        "Design",
+        "IoT",
+        "Web backends",
+        "Desktop development",
+        "Mobile development"
+      ]
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "Experienced",
+      "keywords": ["SQS", "Use", "Deployment"]
+    },
+    {
+      "name": "Web Services",
+      "level": "Expert",
+      "keywords": ["SOAP", "REST"]
+    },
+    {
+      "name": "Software Architectural Design",
+      "level": "Expert",
+      "keywords": ["ADR", "Design", "Innovation"]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Expert",
+      "keywords": [
+        "Software Design",
+        "Software Maintenance",
+        "Testing",
+        "Design",
+        "System development",
+        "Software implementation",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Spring",
+      "level": "Expert",
+      "keywords": ["Spring Framework", "Spring Boot", "Spring AI"]
+    },
+    {
+      "name": "Git",
+      "level": "Expert",
+      "keywords": ["Expert use"]
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "Expert",
+      "keywords": ["EJB", "Web", "Design"]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Experienced",
+      "keywords": ["GraphQL", "Spring framework"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Experienced",
+      "keywords": ["React", "web"]
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "Experienced",
+      "keywords": ["design", "build tests"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Expert",
+      "keywords": ["SPA", "design", "management"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Experienced",
+      "keywords": [
+        "CI",
+        "Terraform",
+        "Scripting",
+        "yaml",
+        "ansible",
+        "Grafana",
+        "Datacenter development"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "keywords": [
+        "Relational databases",
+        "NoSql",
+        "Design",
+        "SQL",
+        "MySQL",
+        "Postgres",
+        "Oracle",
+        "MSSqlServer",
+        "DB2"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Novice",
+      "keywords": ["helm", "prometheus"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Experienced",
+      "keywords": ["Express"]
+    },
+    {
+      "name": "Linux",
+      "level": "Expert",
+      "keywords": ["Daily use"]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "Experienced",
+      "keywords": ["AWS", "OpenStack", "G Cloud"]
+    },
+    {
+      "name": "C++",
+      "level": "Novice",
+      "keywords": ["Boost", "OOP", "gRCP"]
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "Expert",
+      "keywords": ["Scrum", "Kanban", "Scrummaster"]
+    },
+    {
+      "name": "Docker Products",
+      "level": "Experienced",
+      "keywords": ["Dockerfiles", "Design", "Implementation"]
+    },
+    {
+      "name": "Python",
+      "level": "Experienced",
+      "keywords": ["Image generation"]
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "Expert",
+      "keywords": ["bash", "zsh", "automation"]
+    },
+    {
+      "name": "Microservices",
+      "level": "Expert",
+      "keywords": ["architecture", "implementation"]
+    },
+    {
+      "name": "gRPC",
+      "level": "Experienced",
+      "keywords": ["gRPC", "gRPC.js", "gRPC C++", "Envoy", "gRPC Web"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Finnish"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "German"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Swedish"
+    }
+  ],
+  "interests": [
+    "Reading",
+    "Judo",
+    "AI/AI Ethics/Algo ethics",
+    "Gaming",
+    "Coding"
+  ],
+  "references": [
+    {
+      "name": "Juha Simola",
+      "reference": "Marno is an easy-going person, there are no dull moments when having him as a teammate. Creates a relaxed and open atmosphere. Has strong talent, seniority and vision in Java development. Communicates openly about possible challenges and always finds time to work for the team, thus helping to create or maintain a psychologically safe culture within the team he is working in."
+    },
+    {
+      "name": "Artturi Laitakari",
+      "reference": "Marno is highly focused problem solver with very high talent for analysing and making things happen. Marno is a great addition to any team."
+    },
+    {
+      "name": "Jussi Metso",
+      "reference": "Marno is a good team player and does his tasks well. I would recommend Marno to any kind of Information Technology job. Documentum products and Java are the specialities for Marno."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Remote vessel",
+      "startDate": "2023-09-24",
+      "endDate": "2024-12-31",
+      "description": "Remote vessel operations backend development",
+      "highlights": ["Make use of gRPC as communication"]
+    },
+    {
+      "name": "Wifi measurement system development",
+      "startDate": "2022",
+      "endDate": "2023-09",
+      "description": "Wifi measurement system development with JavaFX",
+      "highlights": ["Made application faster"]
+    },
+    {
+      "name": "Road weather station",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": "Road weather station development",
+      "highlights": ["Tested and implemented Lightweight M2M for system update"]
+    }
+  ]
+}
