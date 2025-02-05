@@ -30,14 +30,14 @@
       "position": "Senior Consultant",
       "startDate": "2023-09-30",
       "endDate": "",
-      "highlights": ["gRPC", "C++", "JS/TS", "Testing"],
+      "highlights": ["gRPC with C++", "TS test framework"],
       "summary": "Worked as a Senior Consultant in project related to Maritime industry",
       "url": "https://www.linkedin.com/company/arado-oy/",
       "location": "Turku, Finland"
     },
     {
       "name": "Eva International Art Gallery",
-      "position": "Curator and PRO",
+      "position": "Curator and PR Officer (PRO)",
       "startDate": "2021-09-30",
       "endDate": "",
       "highlights": [
@@ -455,3 +455,4 @@
     }
   ]
 }
+
