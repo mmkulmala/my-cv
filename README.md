@@ -15,7 +15,7 @@ npm install -g resume-cli
 
 Voila! You got the resume-cli ready to create nice looking resumes! Next you need some themes to go with your resume ;)!
 
-But before we jump there, you can test out resume-cli just write in the shell:
+But before we jump there, you can test out resume-cli by running command from below in the shell:
 ```
 resume -V
 ```
