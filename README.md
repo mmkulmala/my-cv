@@ -19,7 +19,7 @@ But before we jump there, you can test out resume-cli just write in the shell:
 ```
 resume -V
 ```
-Output should be ==3.0.8==
+Output should be `3.0.8`
 
 2. Now you need the jsonresume template, which can be found [here](https://jsonresume.org/schema), or you can do as I did and take your LinkedIn as a baseline ;). This can be done following [these instructions](https://jsonresume.org/getting-started) and installing Chrome addon to save your LinkedIn info as jsonresume. NOTICE that this addon is marked for deletion, so be quick if you plan to follow my footsteps.
 
