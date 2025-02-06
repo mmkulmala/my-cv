@@ -62,8 +62,8 @@ resume export <NAME-FOR-RESUME> --theme <NAME-OF-THEME>
 ```
 
 Two placeholders:
-* <NAME-FOR-RESUME> = the name of your resume to be saved plus `.pdf` to tell the format, example test-resume.pdf
-* <NAME-OF-THEME> = the name of theme like kendall
+* NAME-FOR-RESUME = the name of your resume to be saved plus `.pdf` to tell the format, example test-resume.pdf
+* NAME-OF-THEME = the name of theme like kendall
 
 If run the command, it tells you that it created your resume in the same folder as your resume.json. Go check it out and it should look just like the one you tested with `serve` command. 
 
