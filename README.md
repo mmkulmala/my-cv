@@ -23,7 +23,7 @@ Output should be `3.0.8`
 
 2. Now you need the jsonresume template, which can be found [here](https://jsonresume.org/schema), or you can do as I did and take your LinkedIn as a baseline ;). This can be done following [these instructions](https://jsonresume.org/getting-started) and installing Chrome addon to save your LinkedIn info as jsonresume. NOTICE that this addon is marked for deletion, so be quick if you plan to follow my footsteps.
 
-If you just want to do it by. then all you need is the resume.json in some folde.
+If you just want to do it by hand, then all you need is the resume.json in some folder.
 
 3. After the template, it's time to choose a theme for your resume by looking at the [jsonresume themes](https://jsonresume.org/themes) for some examples, but there are more than those available! 
 
