@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Marno Kulmala",
-    "label": "Senior Professional Engineer",
+    "label": "Lead Software Engineer and hands-on Software Architect",
     "image": "https://avatars.githubusercontent.com/u/651031?v=4",
     "email": "thejavasaurus@gmail.com",
     "phone": "(+358) 50 592 8794",
     "url": "",
-    "summary": "I'm an expert in Java based technologies (but I'm also fluent with many other programming languages) and in information technology overall: SW architectures, databases, DevOps + SysOps and testing. \nAgile methods have been in my toolbox for years now and I'm trying out new technologies by developing all sorts of apps in my free time. At the moment I'm using my own time to  learn AI, more about python and trying out zig. \nAfter years developing with Java I moved to C++ to see new horizons. My most recent experience is from maritime industry.\nMy long term goal is to be one of the creators of future: AI, robotics and maritime development are close to my heart.\n\nSpecialties: Systems development, backend technologies (C/C++, Java world, python), DevOps, Cloud platforms and SW architectures",
+    "summary": "I'm an expert in Java based technologies (but I'm also fluent with many other programming languages) and in information technology overall: SW architectures, databases, DevOps + SysOps and testing. Agile methods have been in my toolbox for years now and I'm trying out new technologies by developing all sorts of apps in my free time. At the moment I'm using my own time to  learn AI, more about python and trying out zig. \nAfter years developing with Java I moved to C++ to see new horizons. My most recent experience is from maritime industry. My long term goal is to be one of the creators of future: Games, AI, robotics, fintech and industrial development are close to my heart. Specialties: Systems development, backend technologies (C/C++, Java, python), DevOps, Cloud platforms and SW architectures",
     "location": {
       "countryCode": "FI",
-      "address": "Heinävesi"
+      "address": "Helsinki"
     },
     "profiles": [
       {
@@ -26,11 +26,23 @@
   },
   "work": [
     {
+      "name": "Tepsivo",
+      "position": "Senior Software Developer",
+      "startDate": "2025-05-11",
+      "highlights": [
+        "Solution architecture for new logging system",
+        "Kotlin development"
+      ],
+      "summary": "Senior Software Developer responsible for backend systems in PV company",
+      "url": "https://www.tepsivo.com",
+      "location": "Helsinki, Finland"
+    },
+    {
       "name": "Arado",
       "position": "Senior Consultant",
       "startDate": "2023-09-30",
-      "endDate": "",
-      "highlights": ["gRPC with C++", "TS test framework"],
+      "endDate": "2025-04-30",
+      "highlights": ["gRPC with C++", "TypeScript testing with Jest"],
       "summary": "Worked as a Senior Consultant in project related to Maritime industry",
       "url": "https://www.linkedin.com/company/arado-oy/",
       "location": "Turku, Finland"
@@ -39,7 +51,6 @@
       "name": "Eva International Art Gallery",
       "position": "Curator and PR Officer (PRO)",
       "startDate": "2021-09-30",
-      "endDate": "",
       "highlights": [
         "Curating",
         "Building exhibitions",
@@ -54,8 +65,12 @@
       "position": "Software Consultant",
       "startDate": "2019-02-28",
       "endDate": "2023-09-30",
-      "highlights": [],
-      "summary": "Worked as consultant in Senior/Lead Java developer roles in different industries: Public Sector, fintech, telecom, OEM. Also involved doing technical interviews for possible candidates for joining Mavericks.\nTech stack used:\n- Java (JVM8-17, Eclipse Leshan and LwM2M protocol, device control, Kubernetes + prometheus, Spring, Spring Boot, Wicket, JavaFX, troubleshooting in all forms, flyway, lombok, hibernate, ehcache, java profiling and optimizing with JProfiler and JMC/JCMD), jdeps for module hunting\n- Integrations (REST, SOAP, main frames)\n- Containers (Docker, Kubernetes)\n- Cloud (openstack, AWS)\n- Databases (DB2, Postgres, triggers, procedures etc)\n- Devops (shell scripting, automation, CI, ansible, yaml, Jenkins, artifactory)\n- Embedded (Hardware debugging, basics of yocto distros)\n- System testing with robot framework\n- Prototyping and learning: Quarkus, MongoDB, Kotlin, nodejs and react\n- requirements engineering\nIndustry level skills related to these:\n- Educational services\n- fintech (PSD2, monetising, PCI)\n- authentication\n- Embedded devices (weather stations), IoT",
+      "highlights": [
+        "Fintech development related to PCI and open banking",
+        "Embedded development with Java",
+        "Integrations to multiple systems"
+      ],
+      "summary": "Worked as consultant in Senior/Lead Java developer roles in different industries: Public Sector, fintech, telecom, OEM. Also involved doing technical interviews for possible candidates for joining Mavericks. Tech stack used: Java (JVM8-17, Eclipse Leshan and LwM2M protocol, device control, Kubernetes + prometheus, Spring, Spring Boot, Wicket, JavaFX, troubleshooting in all forms, flyway, lombok, hibernate, ehcache, java profiling and optimizing with JProfiler and JMC/JCMD), jdeps for module hunting, Integrations (REST, SOAP, main frames), Containers (Docker, Kubernetes), Cloud (openstack, AWS), Databases (DB2, Postgres, triggers, procedures etc), Devops (shell scripting, automation, CI, ansible, yaml, Jenkins, artifactory), Embedded (Hardware debugging, basics of yocto distros, devices, IoT), System testing with robot framework, Prototyping and learning: Quarkus, MongoDB, Kotlin, nodejs and react, requirements engineering. Industries: Educational services, fintech (PSD2, monetising, PCI), authentication",
       "url": "https://www.linkedin.com/company/mavericks-software/",
       "location": "Helsinki, Finland"
     },
@@ -74,8 +89,8 @@
       "position": "Senior Consultant",
       "startDate": "2017-04-30",
       "endDate": "2018-11-30",
-      "highlights": [],
-      "summary": "Worked as a senior consultant in Java and DevOps problems in many industries (fintech, idm, telecom).\n\nJava consultation problems related to: Java, Graphql, flyway, RxJava, Spring, microservices, Groovy + Grails, xml technologies\nDevops consultation involved: Jenkins, ansible, terraform, flocker, openstack, aws, docker, artifactory, *nix, scripting (bash, python), marathon, mesos, developing and maintaining Platform as a Service",
+      "highlights": ["Hybrid cloud datacenter development", "IAM development"],
+      "summary": "Worked as a senior consultant in Java and DevOps problems in many industries (fintech, idm, telecom). Java consultation problems related to: Java, Graphql, flyway, RxJava, Spring, microservices, Groovy + Grails, xml technologies\nDevops consultation involved: Jenkins, ansible, terraform, flocker, openstack, aws, docker, artifactory, *nix, scripting (bash, python), marathon, mesos, developing and maintaining Platform as a Service",
       "url": "https://www.linkedin.com/company/phz/",
       "location": "Helsinki, Finland"
     },
@@ -84,8 +99,8 @@
       "position": "Software Engineer",
       "startDate": "2016-11-30",
       "endDate": "2017-04-30",
-      "highlights": [],
-      "summary": "Worked as a consultant in Healtcare technology product development.\n\nTechnologies used:\n- Java (EE7, wildfly, wildfly swarm, java microservices)\n- Postman for REST backend testing\n- Docker",
+      "highlights": ["Health tech development related to eConsent"],
+      "summary": "Worked as a consultant in Healtcare technology product development. Technologies used: Java (EE7, wildfly, wildfly swarm, java microservices), Postman for REST backend testing and Docker",
       "url": "https://www.linkedin.com/company/nsd/",
       "location": "Helsinki, Finland"
     },
@@ -94,8 +109,8 @@
       "position": "Consultant",
       "startDate": "2016-02-28",
       "endDate": "2016-11-30",
-      "highlights": [],
-      "summary": "Worked as a consultant in management system development with Java.\n\nTechnologies used:\n- Java microservices\n- HA solutions (pcs, rabbitmq)\n- Docker\n- integrations",
+      "highlights": ["Command system development", "High availability"],
+      "summary": "Worked as a consultant in command system development with Java. Technologies used: Java microservices, HA solutions (pcs, rabbitmq), Docker, integrations",
       "url": "https://www.linkedin.com/company/unikie/",
       "location": "Tampere, Finland"
     },
@@ -104,8 +119,8 @@
       "position": "Software Architect",
       "startDate": "2013-07-31",
       "endDate": "2016-02-28",
-      "highlights": [],
-      "summary": "Worked as software architect for couple of companies.\n\nFirst my tasks included asset management related development and software design tasks. Mostly Maximo cases, but others as well.\nOther tasks include architectural decisions, helping other team members in development issues, refining software engineering processes used on daily work and designing better ways to implement things. Here I used these technologies: JEE, Web Services (REST, SOAP), Spring, jython, virtualization, windows, linux, db2, WebSphere, redmine, integrations, Talend Open Studio.\n\nNext I moved to electronic case management on Java tech stack.\nWhere I used following technologies: JEE, Apache ServiceMix, MySql, IntelliJ, Liferay, xml-technologies, python, tesseract\n\nAfter that I was doing customs applications with following tech stack: Spring, Oracle DB, Oracle SOA, Weblogic, htlm5, responsive.css\n\nI was also involved in project that was creating new emergency system for Finland. Techstack was: javafx and knockdown.js.",
+      "highlights": ["Worked as software architect in many industries"],
+      "summary": "Worked as software architect for couple of companies. Projects included asset management related development, electronic case management and public sector. Mostly Maximo cases, but others as well. Other tasks include architectural decisions, helping other team members in development issues, refining software engineering processes used on daily work and designing better ways to implement things. Technologies: JEE, Web Services (REST, SOAP), Spring, jython, virtualization, windows, linux, db2, WebSphere, redmine, integrations, Talend Open Studio, JEE, Apache ServiceMix, MySql, IntelliJ, Liferay, xml-technologies, python and tesseract, Spring, Oracle DB, Oracle SOA, Weblogic, htlm5 with responsive.css, JavaFX and knockdown.js",
       "location": "Tampere, Finland"
     },
     {
@@ -113,8 +128,8 @@
       "position": "Senior Software Developer",
       "startDate": "2012-02-28",
       "endDate": "2013-07-31",
-      "highlights": [],
-      "summary": "Worked as a consultant in Business development as well as R&D tasks related to software engineering and planning software architectures. Acted as lead developer and Scrum mastering. I was also involved in mentoring: teaching other developers about new tech.\n\nMethodologies used: scrum, tdd\n\nTechnologies used: Javascript frameworks (mainly node.js but also jquery), Java (version 6 and 7: rest, resteasy, ejb3.X), Servers (Managing and installing: Win 2008 server, ubuntu), tech demos(nacl, kotlin, .net, drupal), orm (jpa2, mybatis), Stripes framework, jms, IBM MQ, Spring, Spring Integration",
+      "highlights": ["Worked as lead developer in vehicle maintenance project"],
+      "summary": "Worked as a consultant in Business development as well as R&D tasks related to software engineering and planning software architectures. Acted as lead developer and Scrum mastering. I was also involved in mentoring: teaching other developers about new tech. Methodologies used: scrum, tdd. Technologies used: Javascript frameworks (mainly node.js but also jquery), Java (version 6 and 7: rest, resteasy, ejb3.X), Servers (Managing and installing: Win 2008 server, ubuntu), tech demos(nacl, kotlin, .net, drupal), orm (jpa2, mybatis), Stripes framework, jms, IBM MQ, Spring, Spring Integration",
       "url": "",
       "location": "Oulu/Tampere, Finland"
     },
@@ -123,8 +138,8 @@
       "position": "Senior Consultant",
       "startDate": "2010-05-31",
       "endDate": "2012-01-31",
-      "highlights": [],
-      "summary": "Worked as a senior consultant in TeleOperator/TeleCom sector R&D and banking.\n\nTechnologies used: Antlr, Wicket, GearMan, Guice, Mockito, JDave, Jetty, Resin, Web Services (SOAP), IDM, J2EE, Spring, maven, Struts, ibatis, Weblogic, xml, EJB, jsp, HTML + CSS + jQuery, php, XAMPP, postgres\n\nMethodologies used: Scrum, kanban",
+      "highlights": ["Fintech development related to loans"],
+      "summary": "Worked as a senior consultant in TeleOperator/TeleCom sector R&D and banking. Technologies used: Antlr, Wicket, GearMan, Guice, Mockito, JDave, Jetty, Resin, Web Services (SOAP), IDM, J2EE, Spring, maven, Struts, ibatis, Weblogic, xml, EJB, jsp, HTML + CSS + jQuery, php, XAMPP, postgres. Methodologies used: Scrum, kanban",
       "url": "https://www.linkedin.com/company/houston-inc./",
       "location": "Helsinki, Finland"
     },
@@ -133,8 +148,8 @@
       "position": "Enterpreneur",
       "startDate": "2008-05-31",
       "endDate": "2010-03-31",
-      "highlights": [],
-      "summary": "I was self-employed in software development subcontrating. Mainly Java based Systems.\n\nTechnologies used: Apache Beehive, EJB, Web Services, BEA WLS (8.1 and 10), Java 1.4.2 and 1.5, MySQL, datacommunications, Akamai",
+      "highlights": ["Entrepreneur experience"],
+      "summary": "I was self-employed in software development subcontrating. Mainly Java based Systems. Technologies used: Apache Beehive, EJB, Web Services, BEA WLS (8.1 and 10), Java 1.4.2 and 1.5, MySQL, datacommunications, Akamai",
       "url": "",
       "location": "Turku, Finland"
     },
@@ -143,7 +158,7 @@
       "position": "Software Engineer",
       "startDate": "2007-08-31",
       "endDate": "2008-04-30",
-      "highlights": [],
+      "highlights": ["Created facelift for iGaming platform"],
       "summary": "Web development (CSS, XHTML and Velocity) and Java programming (Spring, Maven, J2EE, XML etc) for online lottery games",
       "url": "",
       "location": "Helsinki, Finland"
@@ -163,8 +178,8 @@
       "position": "Consultant",
       "startDate": "2004-04-30",
       "endDate": "2006-11-30",
-      "highlights": [],
-      "summary": "Worked as a document management consultant: implementing and supporting client specific solutions.\n\nTechnologies used: document management tools, Java, SQL, scripting, unix, admin tools (consoles, network statistics etc), tech support",
+      "highlights": ["Document management development and platform support"],
+      "summary": "Worked as a document management consultant: implementing and supporting client specific solutions. Technologies used: document management tools, Java, SQL, scripting, unix, admin tools (consoles, network statistics etc), tech support",
       "url": "https://www.linkedin.com/company/tieto/",
       "location": "Helsinki, Finland"
     },
@@ -174,7 +189,7 @@
       "startDate": "1999-12-31",
       "endDate": "2003-09-30",
       "highlights": [],
-      "summary": "I worked more than three years as freelancer for couple of companies in Turku and in Pori.\nFirst I worked as MS Office trainer for Metso (part time job won from schools competition).\n\nThen I worked for Sysforte (nowadays belongs to SysOpen Digia) half an year or so. In Sysforte I worked as Visual Basic programmer for different projects. Mainly on applications that were used in industrial PC's: one of them was a in house ERP for customer.\n\nLast one was Affecto where I worked most of my time as freelancer. My job description was ICT designer which basically meant Document management solutions developer. In technical point of view this meant mainly ASP2+ (vbscript and JavaScript) webapplications and Visual Basic components. I also developed many integrations to other systems related to document management, example of these are autocad integration component and wintime integration component.\n\nTech used: Windows, desktop development, JS, VB, VBA, ASP, T-SQL, PL/SQL, MS SQL Server, Oracle, Document management, Barcode scanning, Sticker printers, Document scanning (Kofax, OCR etc)",
+      "summary": "I worked more than three years as freelancer for couple of companies in Turku and in Pori. First I worked as MS Office teacher for Metso (part time job won from schools competition). Then I worked for Sysforte (nowadays belongs to SysOpen Digia) half an year or so. In Sysforte I worked as Visual Basic programmer for different projects. Mainly on applications that were used in industrial PC's: one of them was a in house ERP for customer. Last one was Affecto where I worked most of my time as freelancer. My job description was ICT designer which basically meant Document management solutions developer. In technical point of view this meant mainly ASP2+ (vbscript and JavaScript) webapplications and Visual Basic components. I also developed many integrations to other systems related to document management, example of these are autocad integration component and wintime integration component. Tech used: Windows, desktop development, JS, VB, VBA, ASP, T-SQL, PL/SQL, MS SQL Server, Oracle, Document management, Barcode scanning, Sticker printers, Document scanning (Kofax, OCR etc)",
       "location": "Turku, Finland"
     }
   ],
@@ -192,7 +207,7 @@
         "Software Economics",
         "Software Maintenance",
         "Datawarehouses",
-        "AI ethics, development"
+        "AI: development, ethics"
       ]
     },
     {
@@ -202,7 +217,12 @@
       "startDate": "2013-08-31",
       "endDate": "2019-07-31",
       "score": "",
-      "courses": ["Mobile Computing", "Sensor networks", "natural sciences"]
+      "courses": [
+        "Mobile Computing",
+        "Sensor networks",
+        "natural sciences",
+        "Cybersecurity"
+      ]
     }
   ],
   "awards": [],
@@ -242,13 +262,14 @@
         "IoT",
         "Web backends",
         "Desktop development",
-        "Mobile development"
+        "Mobile development",
+        "Web Services"
       ]
     },
     {
       "name": "Amazon Web Services (AWS)",
       "level": "Experienced",
-      "keywords": ["SQS", "Use", "Deployment"]
+      "keywords": ["SQS", "Use", "Deployment", "Batch"]
     },
     {
       "name": "Web Services",
@@ -258,7 +279,7 @@
     {
       "name": "Software Architectural Design",
       "level": "Expert",
-      "keywords": ["ADR", "Design", "Innovation"]
+      "keywords": ["ADR", "Design", "Innovation", "Solutions"]
     },
     {
       "name": "Software Engineering",
@@ -286,12 +307,12 @@
     {
       "name": "Java Enterprise Edition",
       "level": "Expert",
-      "keywords": ["EJB", "Web", "Design"]
+      "keywords": ["EJB", "Web", "Design", "ORM"]
     },
     {
       "name": "Kotlin",
       "level": "Experienced",
-      "keywords": ["GraphQL", "Spring framework"]
+      "keywords": ["GraphQL", "Spring framework", "Quarkus"]
     },
     {
       "name": "JavaScript",
@@ -327,7 +348,8 @@
       "keywords": [
         "Relational databases",
         "NoSql",
-        "Design",
+        "MongoDB",
+        "DB Design",
         "SQL",
         "MySQL",
         "Postgres",
@@ -349,7 +371,7 @@
     {
       "name": "Linux",
       "level": "Expert",
-      "keywords": ["Daily use"]
+      "keywords": ["Daily expert use"]
     },
     {
       "name": "Cloud Services",
@@ -411,11 +433,26 @@
     }
   ],
   "interests": [
-    "Reading",
-    "Judo",
-    "AI/AI Ethics/Algo ethics",
-    "Gaming",
-    "Coding"
+    {
+      "name": "Reading",
+      "keywords": ["Scifi", "Autobiographys", "Historical novels"]
+    },
+    { "name": "Martial Arts" },
+    {
+      "name": "AI",
+      "keywords": ["AI ethics", "ML", "agents", "copilots", "gen AI"]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "TRPG's",
+        "Board games",
+        "Computer",
+        "Creating",
+        "Miniature Games"
+      ]
+    },
+    { "name": "Programming" }
   ],
   "references": [
     {
@@ -433,26 +470,43 @@
   ],
   "projects": [
     {
+      "name": "Mobile game development training",
+      "startDate": "2025-04-01",
+      "endDate": "2025-05-30",
+      "description": "Teaching Flutter development to junior developer by creating mobile games. Final outcome is a game demo ready for future development and improvements",
+      "highlights": []
+    },
+    {
       "name": "Remote vessel",
       "startDate": "2023-09-24",
       "endDate": "2024-12-31",
-      "description": "Remote vessel operations backend development",
-      "highlights": ["Make use of gRPC as communication"]
+      "description": "Remote vessel operations backend development using TypeScript, C++ and gRPC for large Maritime industry company. Tasks also included creating dockerized gRPC Web prototype as proof-of-concept and testing library with Typescript and Jest",
+      "highlights": [
+        "Created dockerized gRPC Web prototype as proof-of-concept",
+        "Created testing library with Typescript and Jest"
+      ]
     },
     {
       "name": "Wifi measurement system development",
       "startDate": "2022",
       "endDate": "2023-09",
-      "description": "Wifi measurement system development with JavaFX",
-      "highlights": ["Made application faster"]
+      "description": "Wifi measurement system development with Java and JavaFX. Huge desktop application with several views and multi-threaded asynchronous calculations. Tasks included using JProfiler to find memory leaks, debugging multi-threaded application, prototyping and application updates to newer JVM version",
+      "highlights": [
+        "Made application faster using JProfiler",
+        "Debugged multi-threading",
+        "Prototyped Quarkus application",
+        "Updated JVM version"
+      ]
     },
     {
       "name": "Road weather station",
       "startDate": "2022",
       "endDate": "2022",
-      "description": "Road weather station development",
-      "highlights": ["Tested and implemented Lightweight M2M for system update"]
+      "description": "Road weather station development with Java and Spring running in embedded environment. Tested and implemented Lightweight M2M for system update with Leshan and implemented better way to upload files by enabling download restarting in case of network problems",
+      "highlights": [
+        "Tested and implemented Lightweight M2M for system update with Leshan",
+        "Implemented better way to upload files by enabling download restarting in case of network problems"
+      ]
     }
   ]
 }
-
